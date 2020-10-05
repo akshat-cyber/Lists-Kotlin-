@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">List</string>
+    <string name="affirmation_1">Im developing using kotlin</string>
+    <string name="affirmation_2">Im developing using flutter</string>
+    <string name="affirmation_3">Im developing using Objective-C</string>
+</resources>
